@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛頂超勝三界經說文殊五字真言勝相
+#+DATE: 2015-08-30 20:31:36.040264
+#+PROPERTY: JUAN 0
